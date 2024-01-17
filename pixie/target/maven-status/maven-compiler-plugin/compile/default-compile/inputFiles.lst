@@ -1,0 +1,5 @@
+/root/secretsanta-generator/src/main/java/com/notthebest/demo/SecretsantaApplication.java
+/root/secretsanta-generator/src/main/java/com/notthebest/demo/controller/PersonController.java
+/root/secretsanta-generator/src/main/java/com/notthebest/demo/service/PersonService.java
+/root/secretsanta-generator/src/main/java/com/notthebest/demo/repository/PersonRepo.java
+/root/secretsanta-generator/src/main/java/com/notthebest/demo/model/Person.java
